@@ -4,6 +4,7 @@
 <h3 align="left">Контакты:</h3>
 <p align="left"><a href="https://t.me/freyrskept">Telegram</a></p>
 <p align="left"><a href="https://vk.com/nuxen">VK</a></p>
+<p align="left"><a href="https://krasnoyarsk.hh.ru/resume/f24e7a6aff0cf2a9e70039ed1f444379545745">HeadHunter</a></p>
 <p align="left">mail - kazaksecondarymail@gmail.com </p>
 
 <h3 align="left">Мой стак:</h3>
